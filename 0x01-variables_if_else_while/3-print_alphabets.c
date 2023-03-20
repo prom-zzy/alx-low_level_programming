@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	char lowerArray[26] = "abcdefghijklmnopqrstuvwxzy";
+	char lowerArray[26] = "abcdefghijklmnopqrstuvwxyz";
 	char upperArray[26] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	int i;
 
