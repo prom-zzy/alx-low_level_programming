@@ -2,10 +2,13 @@
 #include "main.h"
 
 /**
+ * main - Main function
  * _putchar - Prints the alphabets putchar
+ * Description: Print _putchar using the 0-putchar
  *
  * Return: Always 0 (Success)
  */
+
 
 int main(void)
 {
