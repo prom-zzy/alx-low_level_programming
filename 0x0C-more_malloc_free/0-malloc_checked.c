@@ -1,3 +1,4 @@
+#include "main.h" /* for the function */
 #include <stdlib.h> /* for malloc */
 #include <stdio.h> /* for fprintf */
 #include <unistd.h> /* for exit */
